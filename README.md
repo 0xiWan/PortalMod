@@ -1,2 +1,9 @@
-# PortalMod
-Découvrez des univers unique qui vous donnes des minerais en grande quantité ! 
+# Nouveauté :
+
+Crafts disponible voir : https://www.swagouin.ml/mods/portalmod
+
++ item PortalLogo (sans craft)
+
+menu dans inventaire ajouté
+
+Dimension ajouté (diamant)
